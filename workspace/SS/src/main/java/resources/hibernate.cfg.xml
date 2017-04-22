@@ -6,8 +6,8 @@
 	<session-factory>
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>		
 		<property name="hibernate.connection.url">jdbc:mysql://localhost/employee</property>
-		<property name="hibernate.connection.username">cadpro</property>
-		<property name="hibernate.connection.password">cadprojsc</property>
+		<property name="hibernate.connection.username">adminss</property>
+		<property name="hibernate.connection.password">adminss</property>
 
 		<!-- JDBC connection pool (use the built-in) -->
       <property name="connection.pool_size">1</property>
