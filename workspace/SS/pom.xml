@@ -74,6 +74,7 @@
 			<version>1.9.1</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.archetypes/jersey-quickstart-webapp -->
 
 
 
